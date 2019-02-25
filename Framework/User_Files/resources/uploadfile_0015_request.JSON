@@ -1,0 +1,109 @@
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="page"
+
+1
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="successRedirectTo"
+
+/file-upload/create/dataDetails/apply
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="failureRedirectTo"
+
+/file-upload/create/dataDetails
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_0_0_0"
+
+delimiter
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_0_0_0"
+
+,
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_0_0_2"
+
+detectColumnDefinition
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_0_0_2"
+
+SELECT_PARSE_AUTO
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_0_0_3"
+
+true
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_0_0_3"
+
+data.includes.header
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="_propertyValue_0_0_3"
+
+false
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_1_0_0"
+
+characterEncoding
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_1_0_0"
+
+UTF-8
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_1_0_1"
+
+recordSampleSize
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_1_0_1"
+
+1000
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_1_0_2"
+
+ignore.first.n.lines
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_1_0_2"
+
+0
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_1_0_3"
+
+escapeCharacter
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_1_0_3"
+
+
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_1_0_4"
+
+quoteCharacter
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_1_0_4"
+
+"
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_1_0_5"
+
+strictQuotes
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="_propertyValue_1_0_5"
+
+false
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_1_0_6"
+
+csv.max-lines-per-record
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyValue_1_0_6"
+
+1
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="propertyKey_1_0_7"
+
+collectAdditionalFields
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="_propertyValue_1_0_7"
+
+false
+------WebKitFormBoundaryqxLPijcaQA9x1sHE
+Content-Disposition: form-data; name="datameer-csrf-token"
+
+${p_csrf}
+------WebKitFormBoundaryqxLPijcaQA9x1sHE--

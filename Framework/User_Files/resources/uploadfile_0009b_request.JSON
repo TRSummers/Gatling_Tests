@@ -1,0 +1,26 @@
+------WebKitFormBoundaryxkyOk7GDDAHzBaiT
+Content-Disposition: form-data; name="multipartFile"; filename="${p_csrf}upload.txt"
+Content-Type: text/plain
+
+
+
+
+
+
+------WebKitFormBoundaryxkyOk7GDDAHzBaiT
+Content-Disposition: form-data; name="propertyKey_0_0_0"
+
+fileType
+------WebKitFormBoundaryxkyOk7GDDAHzBaiT
+Content-Disposition: form-data; name="propertyValue_0_0_0"
+
+CSV
+------WebKitFormBoundaryxkyOk7GDDAHzBaiT
+Content-Disposition: form-data; name="page"
+
+0
+------WebKitFormBoundaryxkyOk7GDDAHzBaiT
+Content-Disposition: form-data; name="datameer-csrf-token"
+
+${p_csrf}
+------WebKitFormBoundaryxkyOk7GDDAHzBaiT--
