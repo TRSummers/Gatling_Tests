@@ -1,0 +1,1 @@
+{"_type":"ListSnowflakeTables","connection":{"account":"datameer","database":"SNOWFLAKE_SAMPLE_DATA"},"schema":"TPCDS_SF10TCL","credentials":{"user":"tsummers","password":"Wally12233"}}

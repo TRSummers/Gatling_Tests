@@ -1,0 +1,1 @@
+{"_type":"CreateSql","sql":"SELECT * FROM _current_view where IB_UPPER_BOUND > 90000","spaceId":"_s1","viewId":"income_band_4"}

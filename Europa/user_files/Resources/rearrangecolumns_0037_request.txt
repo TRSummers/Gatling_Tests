@@ -1,0 +1,1 @@
+{"_type":"ModifyColumnPosition","columnId":"${f1}","newPosition":${f2},"sheetName":"Sheet1"}

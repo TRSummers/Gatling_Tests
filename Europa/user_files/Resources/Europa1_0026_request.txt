@@ -1,0 +1,1 @@
+{"_type":"CreateView","viewId":"call_center_2","description":"","sourceViewId":"call_center","spaceId":"_s1"}
