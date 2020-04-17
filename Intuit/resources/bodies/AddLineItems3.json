@@ -1,0 +1,15 @@
+{
+  "lineItems":[
+    {
+      "offerID":"${offerid1}",
+      "quantity":1
+    },{
+      "offerID":"${offerid2}",
+      "quantity":1
+    },{
+      "offerID":"${offerid3}",
+      "quantity":1
+    }
+  ]
+
+}

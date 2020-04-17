@@ -1,0 +1,17 @@
+{
+	
+	"accountID": "${useridcu}",
+	"paymentMethodID": "${cardid1}",
+	"shippingAddressID": "${addressid1}",
+	"billingFirstName": "${fname3}",
+	"billingLastName": "${lname3}",
+	"shippingFirstName": "${fname3}",
+	"shippingLastName": "${lname3}",
+	"type": "TTO",
+	"offers":[
+			{
+				"offerID":"${TTOofferid}",
+				"quantity":1
+			}
+		]
+}

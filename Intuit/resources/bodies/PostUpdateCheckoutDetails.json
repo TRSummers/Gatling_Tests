@@ -1,0 +1,23 @@
+{
+  "email": "foo@blackhole.intuit.com",
+   "paymentMethod": {
+    "type": "CARD",
+    "tokenizedAccountNumber": "9747930610627603",
+    "cardBrand": "VISA",
+    "nameOnCard": "Intuit EBS FF",
+    "expirationMonth": 12,
+    "expirationYear": 2020
+  },
+  "billingAddress": {
+    "firstName": "Smid",
+    "lastName": "Crem",
+    "companyName": "CompanyBlah",
+    "addressLine1": "1234th St",
+    "addressLine2": "Building 3",
+    "addressLine3": "",
+    "city": "Des Moines",
+    "stateOrProvince": "IA",
+    "postalCode": "52501",
+    "country": "US"
+  }
+}

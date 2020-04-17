@@ -1,0 +1,19 @@
+{
+    "agentId":"839",
+    "securityCode" : "038",
+    "email":"perf@blackhole.intuit.com",
+    "creditPriorityCode":"PCODE",
+    "creditForSale":"SALE",
+    "paymentMethod": {
+        "type": "CARD",
+        "tokenizedAccountNumber": "${paymentToken}",
+        "cardBrand": "VISA",
+        "last4": "4440",
+        "isCreditCard": true,
+        "nameOnCard": "Intuit",
+        "expirationMonth": 12,
+        "expirationYear": 2021,
+        "paymentAddress": null,
+        "securityCode": 12
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "email": "ICP_${randomString}@blackhole.intuit.com",
+  "shippingOption": "SERVICE",
+  "paymentMethod": {
+    "type": "REFUND_TRANSFER"
+  },
+  "billingAddress": {
+    "firstName": "${sFirstName}1",
+    "lastName": "${sLastName}1",
+    "companyName": "Company${sLastName}",
+    "addressLine1": "${sAddress}",
+    "addressLine2": "Building #123",
+    "addressLine3": "",
+    "city": "${sCity}",
+    "stateOrProvince": "${sState}",
+    "postalCode": "${sZip}",
+    "country": "US"
+  },
+  "shippingAddress": {
+    "firstName": "${sFirstName}1",
+    "lastName": "${sLastName}1",
+    "companyName": "Company$${sLastName}",
+    "addressLine1": "${sAddress}",
+    "addressLine2": "Building #123",
+    "addressLine3": "",
+    "city": "${sCity}",
+    "stateOrProvince": "${sState}",
+    "postalCode": "${sZip}",
+    "country": "US"
+  }
+}

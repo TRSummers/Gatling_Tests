@@ -1,0 +1,22 @@
+{
+    "agentId":"364",
+    "shippingOption": "SERVICE",
+    "securityCode" : "221",
+    "email":"perf@blackhole.intuit.com",
+    "creditPriorityCode":"PCODE",
+    "creditForSale":"SALE",
+    "paymentMethod": {
+    "type": "REFUND_TRANSFER"
+  },
+  "shippingAddress": {
+    "firstName": "Foo",
+    "lastName": "Bar",
+    "addressLine1": "1234 5th st",
+    "addressLine2": "Building #3",
+    "addressLine3": "",
+    "city": "San Francisco",
+    "stateOrProvince": "CA",
+    "postalCode": "94110",
+    "country": "US"
+  }
+}

@@ -1,0 +1,4 @@
+{
+	"guest-shopper-id": "guest_${gsid}",
+	"clearUserCart": "true"
+}

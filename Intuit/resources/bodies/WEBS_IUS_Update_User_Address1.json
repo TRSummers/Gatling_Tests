@@ -1,0 +1,24 @@
+{
+   "user": {
+   "address": [
+     {
+       "primary": true,
+       "type": "Shipping",
+       "address1": "${sAddress}",
+       "address2": "Building #319}",
+       "address3": "Billing Address Line 3839 }",
+       "cityOrLocality": "${sCity}",
+       "stateOrProvince": "${sState}",
+       "postalCode": "${sZip}",
+       "country": "US",
+       "recipientName": "${sFirstName} ${sLastName}",
+       "shared": true,
+       "active": true,
+       "phone": "+1 ${sPhoneAreaCode}${sPhoneNumber}",
+       "defaultShipping": false,
+       "defaultBilling": false,
+       "county": "US"
+     }
+   ]
+   }
+}
