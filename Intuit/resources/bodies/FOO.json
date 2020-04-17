@@ -1,0 +1,11 @@
+{
+    "segments": [
+       ""
+    ],
+    "priorityCodes": [
+        "${pcode3}"
+    ],
+    "offerIDs": [
+       "${orderIDs}"
+    ]
+}

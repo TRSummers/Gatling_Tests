@@ -1,0 +1,31 @@
+{
+  "email": "foo@blackhole.intuit.com",
+   "shippingOption": "SERVICE",
+   "paymentMethod": {
+    "type": "REFUND_TRANSFER"
+  },
+  "billingAddress": {
+    "firstName": "Foo",
+    "lastName": "Bar",
+    "companyName": "Companyabc",
+    "addressLine1": "1234 5th St.",
+    "addressLine2": "Building #3",
+    "addressLine3": "",
+    "city": "San Francisco",
+    "stateOrProvince": "CA",
+    "postalCode": "94110",
+    "country": "US"
+  },
+  "shippingAddress": {
+   "firstName": "Foo",
+    "lastName": "Bar",
+    "companyName": "Companyabc",
+    "addressLine1": "1234 5th St.",
+    "addressLine2": "Building #3",
+    "addressLine3": "",
+    "city": "San Francisco",
+    "stateOrProvince": "CA",
+    "postalCode": "94110",
+    "country": "US"
+  }
+}

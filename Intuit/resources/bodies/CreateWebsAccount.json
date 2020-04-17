@@ -1,0 +1,5 @@
+{
+  "customerSegment":"CONSUMER",
+  "authID": "${userid}"
+}
+

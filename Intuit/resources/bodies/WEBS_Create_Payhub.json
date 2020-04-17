@@ -1,0 +1,19 @@
+{
+    "authID": "${useridcu}",
+    "type": "CARD",
+   "tokenizedAccountNumber": "${token}",
+   "cardBrand": "VISA",
+   "nameOnCard": "${sFirstName} ${sLastName}",
+   "expirationMonth": 12,
+   "expirationYear": 2020,
+     "paymentAddress": {
+        "companyName": "Intuit",
+        "addressLine1": "${sAddress}",
+        "addressLine2": "Building #012",
+        "addressLine3": "Billing Address Line 23",
+        "city": "${sCity}",
+        "stateOrProvince": "${sState}",
+        "postalCode": "${sZip}",
+        "country": "US"
+     }
+}
